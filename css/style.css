@@ -191,6 +191,12 @@ body {
         transform: translateY(0px);
     }
 }
+.user-1-active {
+    background-color: #d2a5a599;
+}
+.user-2-active {
+    background-color: #edd7b0f2;
+}
 .text-warning {
     color: orange !important;
   }
